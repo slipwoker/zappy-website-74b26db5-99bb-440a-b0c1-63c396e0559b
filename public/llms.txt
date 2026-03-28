@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטלה פיטנס – סטודיו פליוגה ייחודי לילדים ונוער בגילאי 4–18. חווית תנועה מרגשת שמשלבת יוגה מעופפת, גמישות וביטחון עצמי בסביבה חמה ומקצועית. הצטרפו אלינו!
+
+### הרשמה
+https://example.com/registration
+הרשמה פשוטה וקלה לשיעורי פליוגה לילדים ונוער. בחרו את הקבוצה המתאימה לגיל ולרמה, והעניקו לילדכם חוויית תנועה שתשנה את חייו. אל תפספסו מקום!
+
+### תנאים והצטרפות
+https://example.com/terms-and-joining
+תנאי ההצטרפות לסטלה פיטנס – מחירים, מדיניות ביטולים, גילאים מתאימים וכל הפרטים החשובים. שקיפות מלאה כדי שתתחילו את הדרך בביטחון ובשלווה.
+
+### אודות
+https://example.com/about
+היכירו את הצוות המקצועי של סטלה פיטנס – סטודיו פליוגה לילדים שנולד מאהבה לתנועה, לחינוך ולילדים. גישה חמה, מקצועיות גבוהה וסביבה בטוחה שבה כל ילד יכול לפרוח.
+
+### צור קשר
+https://example.com/contact
+יש שאלות על שיעורי הפליוגה? רוצים לקבוע שיעור ניסיון? צרו איתנו קשר עכשיו ונשמח לעזור לכם למצוא את הדרך המושלמת לילדכם בסטלה פיטנס.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
